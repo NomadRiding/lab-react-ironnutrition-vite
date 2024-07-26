@@ -12,7 +12,8 @@ function FoodList() {
     }
 
   return (
-    <div>FoodList
+    <div>
+        
         <AddFoodForm onAddFood={handleAddFood} />
     </div>
   )
